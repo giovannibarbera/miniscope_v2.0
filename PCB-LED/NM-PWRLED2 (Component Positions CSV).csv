@@ -1,0 +1,7 @@
+"Name","Component","Side","Centre X","Centre Y","Rotation"
+"LED1","LED_CREE_BLUE_XLAMP_XPE","Top","2.5","2.5","0.00"
+"LED2","LED_LUXEON_REBEL_COLOR","Top","7.7","2.6","0.00"
+"PAD1","PAD1C","Bottom","4.0","3.6","0.00"
+"PAD2","PAD1C","Bottom","1.0","3.6","0.00"
+"PAD3","PAD1C","Bottom","9.2","3.6","0.00"
+"PAD4","PAD1C","Bottom","6.2","3.6","0.00"

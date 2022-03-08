@@ -1,0 +1,296 @@
+Plot Report
+-----------
+
+Report Written:     Monday, October 28, 2019
+Project Path:       C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\NM-PWRLED2.prj
+Design Path:        C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\NM-PWRLED2.pcb
+Design Title:       
+Created:            6/28/2019 1:23:52 PM
+Last Saved:         10/28/2019 2:29:57 PM
+Editing Time:       479 min
+Units:              mil (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    Leading zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\NM-PWRLED2.mop"
+
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Top Documentation.gbr
+
+    Layers:
+    ---------------------
+    Top Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D20    Round 5.00
+    D21    Round 11.81
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 55.00
+    D11    Rectangle 19.69 X 129.92
+    D12    Rectangle 51.18 X 129.92
+    D13    Rectangle 28.74 X 49.61  Rotation 90
+    D14    Rectangle 69.29 X 110.24  Rotation 90
+    D15    Round 26.00
+    D18    Round 19.69
+    D23    Round 22.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D19    Round 61.00
+    D150   Rectangle 25.69 X 135.92
+    D151   Rectangle 57.18 X 135.92
+    D152   Rectangle 34.74 X 55.61  Rotation 90
+    D153   Rectangle 75.29 X 116.24  Rotation 90
+    D154   Round 32.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Top Paste Mask.gbr
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 55.00
+    D11    Rectangle 19.69 X 129.92
+    D12    Rectangle 51.18 X 129.92
+    D13    Rectangle 28.74 X 49.61  Rotation 90
+    D14    Rectangle 69.29 X 110.24  Rotation 90
+    D15    Round 26.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - DGND Plane (Powerplane Positive).gbr
+
+    Layers:
+    ------------------------------------------------------------------------------------
+    DGND Plane  - Plane Isolation Gap 10.00 Thermal Connect Width 10.00 with 4 Spokes
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 55.00
+    D15    Round 26.00
+    D16    Round 0.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - VDD Plane (Powerplane Positive).gbr
+
+    Layers:
+    ---------------------------------------------------------------------------------------
+    VDD_3V3 Plane  - Plane Isolation Gap 10.00 Thermal Connect Width 10.00 with 4 Spokes
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 55.00
+    D15    Round 26.00
+    D16    Round 0.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ---------------------------------
+    D10    Round 55.00
+    D15    Round 26.00
+    D17    Rectangle 40.00 X 80.00
+    D18    Round 19.69
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Bottom Documentation.gbr
+
+    Layers:
+    ------------------------
+    Bottom Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    ---------------------------------
+    D19    Round 61.00
+    D70    Rectangle 46.00 X 86.00
+    D154   Round 32.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Bottom Paste Mask.gbr
+
+    Layers:
+    ---------------------
+    Bottom Paste Mask
+
+    D-Code Shape  (thou)
+    ---------------------------------
+    D10    Round 55.00
+    D15    Round 26.00
+    D17    Rectangle 40.00 X 80.00
+
+NC Drill Output
+===============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.01000 inches 6     B
+    T002  0.03900 inches 2     A
+    --------------------------------------
+    Total                8
+    --------------------------------------
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02500 inches 1
+    --------------------------------------
+    Total                1
+    --------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    39    Y      100  Round A
+    10    Y      100  Round B
+
+    D-Code Shape  (thou)
+    -----------------------
+    D71    Round 100.00
+    D20    Round 5.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\Gerber\NM-PWRLED2 - Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D20    Round 5.00
+
+End Of Report.

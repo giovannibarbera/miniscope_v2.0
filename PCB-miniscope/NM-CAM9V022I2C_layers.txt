@@ -1,0 +1,6 @@
+1 - NM-CAM9V022I2C - Top Copper.gbr
+2 - NM-CAM9V022I2C - DGND Plane (Powerplane).gbr
+3 - NM-CAM9V022I2C - VDD Plane (Powerplane).gbr
+4 - NM-CAM9V022I2C - AGND Plane (Powerplane).gbr
+5 - NM-CAM9V022I2C - VCC_5V Plane (Powerplane).gbr
+6 - NM-CAM9V022I2C - Bottom Copper.gbr

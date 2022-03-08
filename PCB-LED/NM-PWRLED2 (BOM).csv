@@ -1,0 +1,18 @@
+"Report Written:","Monday, October 28, 2019"
+"Project Path:","C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\NM-PWRLED2.prj"
+"Design Path:","C:\Giovanni\neuralmapper\PCB\NM-PWRLED2\Rev1\NM-PWRLED2.pcb"
+"Design Title:",
+"Created:","6/28/2019 1:23:52 PM"
+"Last Saved:","10/28/2019 1:26:52 PM"
+"Editing Time:","421 min"
+"Units:","mm (precision 1)"
+
+
+"Ref Name","Qty","Component","Value","Side","Manufacturer","Manufacturer part number","Distributor","Distributor part number","Description","Price"
+"LED1","1","LED_CREE_BLUE_XLAMP_XPE","","Top","Cree","XPEBLU-L1-0000-00Z01","Cree","XPEBLU-L1-0000-00Z01","CREE XLamp XP-E LED","1.00"
+"LED2","1","LED_LUXEON_REBEL_COLOR","","Top","Luxeon","LXML-PL01-0040","Luxeon","LXML-PL01-0040","Luxeon Rebel Color Yellow LED","1.00"
+"PAD1","1","PAD1C","","Bottom","","","","","PAD","0.00"
+"PAD2","1","PAD1C","","Bottom","","","","","PAD","0.00"
+"PAD3","1","PAD1C","","Bottom","","","","","PAD","0.00"
+"PAD4","1","PAD1C","","Bottom","","","","","PAD","0.00"
+"","6","","","","","","","","","2.00"

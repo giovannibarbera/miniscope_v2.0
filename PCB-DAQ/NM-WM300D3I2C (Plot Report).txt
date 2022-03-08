@@ -1,0 +1,408 @@
+Plot Report
+-----------
+
+Report Written:     Monday, January 25, 2021
+Project Path:       C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\NM-WM300D3I2C.prj
+Design Path:        C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\NM-WM300D3I2C.pcb
+Design Title:       
+Created:            8/6/2014 3:55:19 PM
+Last Saved:         1/14/2021 3:50:37 PM
+Editing Time:       16315 min
+Units:              mil (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 2.4 absolute in inches.
+    Leading zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\NM-WM300D3I2C.mop"
+
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D13    Round 6.00
+    D17    Round 5.00
+    D18    Round 10.00
+    D29    Round 1.00
+    D73    Round 7.87
+    D74    Round 3.00
+    D117   Round 8.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D12    Round 32.00
+    D15    Round 28.00
+    D17    Round 5.00
+    D18    Round 10.00
+    D71    Round 20.00
+    D20    Round 30.00
+    D21    Round 12.00
+    D22    Round 26.00
+    D84    Rectangle 20.00 X 24.00  Rotation 90
+    D85    Rectangle 23.00 X 50.00
+    D86    Rectangle 24.00 X 35.00
+    D87    Rectangle 24.00 X 35.00  Rotation 90
+    D90    Round 18.00
+    D106   Rectangle 55.00 X 60.00  Rotation 90
+    D107   Round 56.00
+    D108   Round 16.00
+    D113   Rectangle 20.00 X 24.00
+    D116   Round 9.00
+    D117   Round 8.00
+    D118   Round 197.00
+    D119   Round 60.00
+    D120   Rectangle 23.62 X 43.31  Rotation 90
+    D121   Round 47.24
+    D122   Rectangle 12.00 X 12.00
+    D123   Round 90.55
+    D124   Round 100.39
+    D125   Rectangle 28.00 X 35.00  Rotation 90
+    D126   Round 76.00
+    D127   Rectangle 16.00 X 48.00  Rotation 90
+    D128   Rectangle 21.65 X 41.34  Rotation 90
+    D129   Rectangle 15.75 X 18.31  Rotation 90
+    D130   Square 60.00
+    D131   Round 24.00
+    D132   Round 11.00
+    D133   Round 44.00
+    D134   Round 33.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Top Copper (Resist).gbr
+
+    Layers:
+    ------------------
+    Top Soldermask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D100   Rectangle 26.00 X 30.00  Rotation 90
+    D101   Rectangle 29.00 X 56.00
+    D102   Rectangle 30.00 X 41.00
+    D103   Rectangle 30.00 X 41.00  Rotation 90
+    D110   Rectangle 61.00 X 66.00  Rotation 90
+    D115   Rectangle 26.00 X 30.00
+    D135   Round 203.00
+    D136   Round 66.00
+    D137   Rectangle 29.62 X 49.31  Rotation 90
+    D138   Round 53.24  Hole 39.37
+    D139   Rectangle 18.00 X 18.00
+    D140   Round 96.55
+    D141   Round 106.39
+    D142   Rectangle 34.00 X 41.00  Rotation 90
+    D143   Round 82.00  Hole 60.00
+    D144   Rectangle 22.00 X 54.00  Rotation 90
+    D145   Rectangle 27.65 X 47.34  Rotation 90
+    D146   Rectangle 21.75 X 24.31  Rotation 90
+    D147   Square 66.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Top Copper (Paste).gbr
+
+    Layers:
+    -------------------
+    Top Solderpaste
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D12    Round 32.00
+    D22    Round 26.00
+    D84    Rectangle 20.00 X 24.00  Rotation 90
+    D85    Rectangle 23.00 X 50.00
+    D86    Rectangle 24.00 X 35.00
+    D87    Rectangle 24.00 X 35.00  Rotation 90
+    D106   Rectangle 55.00 X 60.00  Rotation 90
+    D107   Round 56.00
+    D113   Rectangle 20.00 X 24.00
+    D118   Round 197.00
+    D119   Round 60.00
+    D120   Rectangle 23.62 X 43.31  Rotation 90
+    D122   Rectangle 12.00 X 12.00
+    D123   Round 90.55
+    D124   Round 100.39
+    D125   Rectangle 28.00 X 35.00  Rotation 90
+    D127   Rectangle 16.00 X 48.00  Rotation 90
+    D128   Rectangle 21.65 X 41.34  Rotation 90
+    D129   Rectangle 15.75 X 18.31  Rotation 90
+    D130   Square 60.00
+    D148   Round 47.24  Hole 39.37
+    D149   Round 76.00  Hole 60.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - DGND Plane (Powerplane).gbr
+
+    Layers:
+    -----------------------------------------------------------------------------------
+    DGND Plane  - Plane Isolation Gap 8.00 Thermal Connect Width 10.00 with 4 Spokes
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 0.00
+    D12    Round 32.00
+    D17    Round 5.00
+    D21    Round 12.00
+    D22    Round 26.00
+    D90    Round 18.00
+    D107   Round 56.00
+    D108   Round 16.00
+    D116   Round 9.00
+    D117   Round 8.00
+    D119   Round 60.00
+    D121   Round 47.24
+    D123   Round 90.55
+    D124   Round 100.39
+    D126   Round 76.00
+    D130   Square 60.00
+    D132   Round 11.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - VDD_3V3 Plane (Powerplane).gbr
+
+    Layers:
+    --------------------------------------------------------------------------------------
+    VDD_3V3 Plane  - Plane Isolation Gap 8.00 Thermal Connect Width 10.00 with 4 Spokes
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 0.00
+    D12    Round 32.00
+    D21    Round 12.00
+    D22    Round 26.00
+    D107   Round 56.00
+    D108   Round 16.00
+    D117   Round 8.00
+    D118   Round 197.00
+    D119   Round 60.00
+    D121   Round 47.24
+    D123   Round 90.55
+    D124   Round 100.39
+    D126   Round 76.00
+    D130   Square 60.00
+    D132   Round 11.00
+    D133   Round 44.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D12    Round 32.00
+    D13    Round 6.00
+    D17    Round 5.00
+    D18    Round 10.00
+    D21    Round 12.00
+    D22    Round 26.00
+    D84    Rectangle 20.00 X 24.00  Rotation 90
+    D86    Rectangle 24.00 X 35.00
+    D90    Round 18.00
+    D91    Round 22.00
+    D107   Round 56.00
+    D108   Round 16.00
+    D113   Rectangle 20.00 X 24.00
+    D116   Round 9.00
+    D117   Round 8.00
+    D118   Round 197.00
+    D119   Round 60.00
+    D121   Round 47.24
+    D123   Round 90.55
+    D124   Round 100.39
+    D126   Round 76.00
+    D130   Square 60.00
+    D132   Round 11.00
+    D133   Round 44.00
+    D150   Rectangle 11.81 X 78.74
+    D151   Rectangle 13.78 X 78.74
+    D152   Rectangle 9.06 X 33.46  Rotation 90
+    D153   Rectangle 9.06 X 39.37  Rotation 90
+    D154   Rectangle 66.93 X 78.74  Rotation 90
+    D155   Rectangle 54.33 X 70.87
+    D156   Rectangle 12.60 X 39.37  Rotation 90
+    D157   Rectangle 13.78 X 25.20  Rotation 90
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Bottom Copper (Resist).gbr
+
+    Layers:
+    ---------------------
+    Bottom Soldermask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D100   Rectangle 26.00 X 30.00  Rotation 90
+    D102   Rectangle 30.00 X 41.00
+    D115   Rectangle 26.00 X 30.00
+    D135   Round 203.00
+    D136   Round 66.00
+    D138   Round 53.24  Hole 39.37
+    D140   Round 96.55
+    D141   Round 106.39
+    D143   Round 82.00  Hole 60.00
+    D147   Square 66.00
+    D150   Rectangle 17.81 X 84.74
+    D151   Rectangle 19.78 X 84.74
+    D152   Rectangle 15.06 X 39.46  Rotation 90
+    D153   Rectangle 15.06 X 45.37  Rotation 90
+    D154   Rectangle 72.93 X 84.74  Rotation 90
+    D155   Rectangle 60.33 X 76.87
+    D156   Rectangle 18.60 X 45.37  Rotation 90
+    D157   Rectangle 19.78 X 31.20  Rotation 90
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Bottom Copper (Paste).gbr
+
+    Layers:
+    ----------------------
+    Bottom Solderpaste
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 197.00
+    D11    Round 60.00
+    D12    Rectangle 11.81 X 78.74
+    D13    Round 47.24  Hole 39.37
+    D14    Rectangle 13.78 X 78.74
+    D15    Rectangle 20.00 X 24.00
+    D16    Rectangle 20.00 X 24.00  Rotation 90
+    D17    Rectangle 24.00 X 35.00
+    D18    Round 90.55
+    D19    Round 100.39
+    D70    Round 76.00  Hole 60.00
+    D71    Rectangle 9.06 X 33.46  Rotation 90
+    D20    Rectangle 9.06 X 39.37  Rotation 90
+    D21    Rectangle 66.93 X 78.74  Rotation 90
+    D22    Rectangle 54.33 X 70.87
+    D23    Rectangle 12.60 X 39.37  Rotation 90
+    D24    Rectangle 13.78 X 25.20  Rotation 90
+    D25    Square 60.00
+    D26    Round 26.00
+    D27    Round 56.00
+    D28    Round 32.00
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D29    Round 5.00
+    D72    Round 1.00
+    D73    Round 7.87
+    D74    Round 3.94
+
+NC Drill Output
+===============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Drill Data - Through Hole.drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size          Count   ID
+    -------------------------------------
+    T001  0.0100 inches 73    H
+    T002  0.0160 inches 1     J
+    T003  0.0236 inches 6     G
+    T004  0.0320 inches 14    I
+    T005  0.0350 inches 29    B
+    T006  0.0618 inches 2     D
+    T007  0.0669 inches 8     E
+    T008  0.0980 inches 4     A
+    -------------------------------------
+    Total               137
+    -------------------------------------
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Drill Data - Through Hole (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size          Count   ID
+    -------------------------------------
+    T001  0.0394 inches 4     C
+    T002  0.0600 inches 12    F
+    -------------------------------------
+    Total               16
+    -------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Giovanni\neuralmapper\PCB\NM-WM300D3I2C\Rev2\Gerber\NM-WM300D3I2C - Board outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D29    Round 5.00
+
+End Of Report.
